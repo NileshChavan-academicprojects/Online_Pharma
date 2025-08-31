@@ -53,7 +53,6 @@ An online platform for users to order medicines/drugs securely. The system suppo
 
 
 
----
 
 ## 🚀 Getting Started
 
